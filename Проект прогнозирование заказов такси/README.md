@@ -15,8 +15,8 @@
 - sklearn.model_selection.**TimeSeriesSplit**
 - sklearn.model_selection.**GridSearchCV**
 - sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**make_scorer**
-- sklearn.linear_model.**LinearRegression**
+- statsmodels.tsa.stattools. **adfuller**
+- sklearn.linear_model.**DecisionTreeRegressor**
 - sklearn.ensemble.**RandomForestRegressor**
 - catboost.**CatBoostRegressor**
 - **matplotlib**
